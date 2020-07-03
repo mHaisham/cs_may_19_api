@@ -66,4 +66,4 @@ Returns [EventCalender](#eventcalender) object which contains all the current ev
 
 ## Planned
 
-* `lastUpdated` for [EventCalender](#eventcalender)
+* `lastUpdated` for [LectureCalender](#lecturecalender)
