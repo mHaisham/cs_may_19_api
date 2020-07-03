@@ -2,6 +2,19 @@
 
 Api service for accessing CSMay19 bot data.
 
+## Install
+
+In your pubspec.yaml
+
+```yaml
+dependencies:
+  ...
+
+  cs_may_19_api:
+    path: <Relative path to project root>
+
+```
+
 ## Example
 
 ```dart
