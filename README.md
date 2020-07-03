@@ -29,6 +29,8 @@ final eventCalender = await service.events();
 
 ## Api
 
+> Note that the following methods will return `null` where the response code is not 200
+
 ### `CSMay19Service.events()`
 
 Returns [EventCalender](#eventcalender) object which contains all the current events in bot database.
