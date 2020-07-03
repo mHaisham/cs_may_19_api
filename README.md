@@ -4,7 +4,9 @@ Api service for accessing CSMay19 bot data.
 
 ## Install
 
-In your pubspec.yaml
+1. Clone this repo
+
+2. add this as dependency in your pubspec.yaml
 
 ```yaml
 dependencies:
@@ -59,7 +61,8 @@ Returns [EventCalender](#eventcalender) object which contains all the current ev
 **Has methods:**
 
 * `weekday(int day)` takes number of day and returns all the lectures that start in that day
-  week is from **Monday** which is given no. 1, to and **Sunday** which is no. 7
+
+  A week starts from **Monday** which is given no. 1, to **Sunday** which is no. 7
 
 ## Planned
 
