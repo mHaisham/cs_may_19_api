@@ -1,7 +1,7 @@
 name: cs_may_19_api
 description: api service for accessing CSMay19 bot data
 version: 0.0.1
-homepage:
+homepage: https://github.com/mHaisham/cs_may_19_api
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
